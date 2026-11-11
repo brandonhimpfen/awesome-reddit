@@ -60,6 +60,7 @@ Tools and datasets for extracting historical threads, processing real-time comme
 
 - [Pushshift Reddit Archive](https://github.com/pushshift/api) — Historical dataset archive indexing billions of Reddit posts and comments for academic and social science research.
 - [Arctic Shift Data Platform](https://arctic-shift.com/) — Modern data access portal for downloading and querying historical Reddit submission archives and comment dumps.
+- [KissMyPost](https://kissmypost.com) — Web app and MCP server built on a full Reddit archive since 2005: subreddit finder, member growth, best time to post, historical phrase and brand mention counts.
 
 ### Scraping & Stream Listeners
 
